@@ -1,0 +1,38 @@
+<?php
+// EN
+return [
+    "text_hello" => "Hello",
+    "text_login" => "Login",
+    "text_logout" => "Logout",
+    "text_register" => "Registration",
+    "text_name" => "Name",
+    "text_email" => "E-mail",
+    "text_password" => "Password",
+    "text_users" => "Users",
+    "text_posts" => "Posts",
+    "text_guest" => "Guest",
+    "text_add" => "Add",
+    "text_empty" => "Empty",
+    "text_return" => "Return",
+    "text_erase" => "Erase",
+    "text_modify" => "Modify",
+    "text_category" => "Category",
+    "text_author" => "Author",
+    "text_submit" => "Submit",
+    "text_select" => "Select",
+    "text_title" => "Title",
+    "text_text" => "Text",
+    "text_no" => "No",
+    "text_error" => "Error",
+    "text_address" => "Address",
+    "text_phone" => "Phone",
+    "text_date_birth" => "Date of birth",
+    "text_city" => "City",
+    "text_reset" => "Reset",
+
+    "text_tp_title" => "TP 2 : Laravel - Login",
+    "text_tp_course" => "Course: Web Framework",
+    "text_tp_description" => "Job description: Create a dynamic website using the Laravel framework, to collect information from students at Collège Maisonneuve.",
+    "text_tp_student" => "Student: Pablo Gomes (e2194792)",
+    
+];
